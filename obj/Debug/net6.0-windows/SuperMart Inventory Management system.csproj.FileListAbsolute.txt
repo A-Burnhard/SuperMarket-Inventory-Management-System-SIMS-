@@ -1,0 +1,19 @@
+C:\Users\bappi\OneDrive\Desktop\SIMS\SuperMart Inventory Management system\bin\Debug\net6.0-windows\SuperMart Inventory Management system.exe
+C:\Users\bappi\OneDrive\Desktop\SIMS\SuperMart Inventory Management system\bin\Debug\net6.0-windows\SuperMart Inventory Management system.deps.json
+C:\Users\bappi\OneDrive\Desktop\SIMS\SuperMart Inventory Management system\bin\Debug\net6.0-windows\SuperMart Inventory Management system.runtimeconfig.json
+C:\Users\bappi\OneDrive\Desktop\SIMS\SuperMart Inventory Management system\bin\Debug\net6.0-windows\SuperMart Inventory Management system.dll
+C:\Users\bappi\OneDrive\Desktop\SIMS\SuperMart Inventory Management system\bin\Debug\net6.0-windows\SuperMart Inventory Management system.pdb
+C:\Users\bappi\OneDrive\Desktop\SIMS\SuperMart Inventory Management system\obj\Debug\net6.0-windows\SuperMart Inventory Management system.csproj.AssemblyReference.cache
+C:\Users\bappi\OneDrive\Desktop\SIMS\SuperMart Inventory Management system\obj\Debug\net6.0-windows\SuperMart_Inventory_Management_system.Form1.resources
+C:\Users\bappi\OneDrive\Desktop\SIMS\SuperMart Inventory Management system\obj\Debug\net6.0-windows\SuperMart Inventory Management system.csproj.GenerateResource.cache
+C:\Users\bappi\OneDrive\Desktop\SIMS\SuperMart Inventory Management system\obj\Debug\net6.0-windows\SuperMart Inventory Management system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bappi\OneDrive\Desktop\SIMS\SuperMart Inventory Management system\obj\Debug\net6.0-windows\SuperMart Inventory Management system.AssemblyInfoInputs.cache
+C:\Users\bappi\OneDrive\Desktop\SIMS\SuperMart Inventory Management system\obj\Debug\net6.0-windows\SuperMart Inventory Management system.AssemblyInfo.cs
+C:\Users\bappi\OneDrive\Desktop\SIMS\SuperMart Inventory Management system\obj\Debug\net6.0-windows\SuperMart Inventory Management system.csproj.CoreCompileInputs.cache
+C:\Users\bappi\OneDrive\Desktop\SIMS\SuperMart Inventory Management system\obj\Debug\net6.0-windows\SuperMart Inventory Management system.dll
+C:\Users\bappi\OneDrive\Desktop\SIMS\SuperMart Inventory Management system\obj\Debug\net6.0-windows\refint\SuperMart Inventory Management system.dll
+C:\Users\bappi\OneDrive\Desktop\SIMS\SuperMart Inventory Management system\obj\Debug\net6.0-windows\SuperMart Inventory Management system.pdb
+C:\Users\bappi\OneDrive\Desktop\SIMS\SuperMart Inventory Management system\obj\Debug\net6.0-windows\SuperMart Inventory Management system.genruntimeconfig.cache
+C:\Users\bappi\OneDrive\Desktop\SIMS\SuperMart Inventory Management system\obj\Debug\net6.0-windows\ref\SuperMart Inventory Management system.dll
+C:\Users\bappi\OneDrive\Desktop\SIMS\SuperMart Inventory Management system\obj\Debug\net6.0-windows\SuperMart_Inventory_Management_system.Properties.Resources.resources
+C:\Users\bappi\OneDrive\Desktop\SIMS\SuperMart Inventory Management system\obj\Debug\net6.0-windows\SuperMart_Inventory_Management_system.Splashscreen.resources
