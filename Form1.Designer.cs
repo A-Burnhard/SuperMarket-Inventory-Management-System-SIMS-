@@ -140,7 +140,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(33)))), ((int)(((byte)(45)))));
-            this.ClientSize = new System.Drawing.Size(789, 450);
+            this.ClientSize = new System.Drawing.Size(902, 450);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.textBox6);
             this.Controls.Add(this.button1);
@@ -152,6 +152,7 @@
             this.Controls.Add(this.textBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
