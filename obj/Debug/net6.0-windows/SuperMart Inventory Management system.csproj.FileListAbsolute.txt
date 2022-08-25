@@ -17,3 +17,4 @@ C:\Users\bappi\OneDrive\Desktop\SIMS\SuperMart Inventory Management system\obj\D
 C:\Users\bappi\OneDrive\Desktop\SIMS\SuperMart Inventory Management system\obj\Debug\net6.0-windows\ref\SuperMart Inventory Management system.dll
 C:\Users\bappi\OneDrive\Desktop\SIMS\SuperMart Inventory Management system\obj\Debug\net6.0-windows\SuperMart_Inventory_Management_system.Properties.Resources.resources
 C:\Users\bappi\OneDrive\Desktop\SIMS\SuperMart Inventory Management system\obj\Debug\net6.0-windows\SuperMart_Inventory_Management_system.Splashscreen.resources
+C:\Users\bappi\OneDrive\Desktop\SIMS\SuperMart Inventory Management system\obj\Debug\net6.0-windows\SuperMart_Inventory_Management_system.ProductForm.resources
