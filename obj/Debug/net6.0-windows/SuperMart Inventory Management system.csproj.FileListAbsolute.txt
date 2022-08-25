@@ -18,3 +18,8 @@ C:\Users\bappi\OneDrive\Desktop\SIMS\SuperMart Inventory Management system\obj\D
 C:\Users\bappi\OneDrive\Desktop\SIMS\SuperMart Inventory Management system\obj\Debug\net6.0-windows\SuperMart_Inventory_Management_system.Properties.Resources.resources
 C:\Users\bappi\OneDrive\Desktop\SIMS\SuperMart Inventory Management system\obj\Debug\net6.0-windows\SuperMart_Inventory_Management_system.Splashscreen.resources
 C:\Users\bappi\OneDrive\Desktop\SIMS\SuperMart Inventory Management system\obj\Debug\net6.0-windows\SuperMart_Inventory_Management_system.ProductForm.resources
+C:\Users\bappi\OneDrive\Desktop\SIMS\SuperMart Inventory Management system\bin\Debug\net6.0-windows\dje\SuperMart Inventory Management system.resources.dll
+C:\Users\bappi\OneDrive\Desktop\SIMS\SuperMart Inventory Management system\obj\Debug\net6.0-windows\SuperMart_Inventory_Management_system.CategoryForm.resources
+C:\Users\bappi\OneDrive\Desktop\SIMS\SuperMart Inventory Management system\obj\Debug\net6.0-windows\SuperMart_Inventory_Management_system.SellerForm.resources
+C:\Users\bappi\OneDrive\Desktop\SIMS\SuperMart Inventory Management system\obj\Debug\net6.0-windows\SuperMart_Inventory_Management_system.SellerForm.dje.resources
+C:\Users\bappi\OneDrive\Desktop\SIMS\SuperMart Inventory Management system\obj\Debug\net6.0-windows\dje\SuperMart Inventory Management system.resources.dll

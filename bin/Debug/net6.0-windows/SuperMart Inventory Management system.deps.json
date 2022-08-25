@@ -9,6 +9,11 @@
       "SuperMart Inventory Management system/1.0.0": {
         "runtime": {
           "SuperMart Inventory Management system.dll": {}
+        },
+        "resources": {
+          "dje/SuperMart Inventory Management system.resources.dll": {
+            "locale": "dje"
+          }
         }
       }
     }
